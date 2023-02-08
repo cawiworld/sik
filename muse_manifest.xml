@@ -1,0 +1,33 @@
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sik.ua" resolutions="1x" timestamp="1675839740647">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="project.css" crc="176647144" ref="project"/>
+    <file name="zakaz.css" crc="196146673" ref="zakaz"/>
+    <file name="sik-inc.css" crc="289214192" ref="sik-inc"/>
+    <file name="index.css" crc="3919379436" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:zakaz:project:sik-inc"/>
+    <file name="museutils.js" crc="4216313831" ref="index:zakaz:project:sik-inc"/>
+    <file name="whatinput.js" crc="86476730" ref="index:zakaz:project:sik-inc"/>
+    <file name="museconfig.js" crc="474374037" ref="index:zakaz:project:sik-inc"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:zakaz:project:sik-inc"/>
+    <file name="require.js" crc="3951022091" ref="index:zakaz:project:sik-inc"/>
+  </folder>
+  <folder name="images">
+    <file name="без названия.png" crc="449139946" ref="index:zakaz:project:sik-inc">
+      <caption webpage="index" alt=""/>
+      <caption webpage="sik-inc" alt=""/>
+      <caption webpage="zakaz" alt=""/>
+      <caption webpage="project" alt=""/>
+    </file>
+    <file name="u121-4.png" crc="307148390" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:zakaz"/>
+    <file name="u142-4.png" crc="307148390" ref="zakaz"/>
+    <file name="u170-4.png" crc="307148390" ref="project"/>
+  </folder>
+  <file name="index.html" crc="340442136" seo="true" mt="1675839732059" redirect="true"/>
+  <file name="zakaz.html" crc="48715603" seo="true" mt="1675839070396" redirect="true"/>
+  <file name="project.html" crc="30500682" seo="true" mt="1675839215007" redirect="true"/>
+  <file name="sik-inc.html" crc="86194786" seo="true" mt="1675839659177" redirect="true"/>
+</manifest>
